@@ -1,2 +1,2 @@
-# dot-hammerspoon
+# hammerspoon-config
 My HammerSpoon configuration
